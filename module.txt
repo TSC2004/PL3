@@ -1,0 +1,112 @@
+Module 1: Introduction to World Wide Web, Markup Languages, Style sheet Languages
+Client, Server, Communication, Protocols, Ports, Client-Server Architectures, Internet, World
+Wide Web, HTTP, HTTP Status Codes, Web Clients/Browsers, and Web Servers.
+Experiments:
+1. Describe client, server, communication, ports, protocols, HTTP, browsers and web servers.
+Distinguish between client and server, Internet, WWW, and client-server architectures.
+2. Get header information of a web page using browser’s developer mode. Installation of web
+server.
+3. Design and develop web pages using fundamental HTML elements, such as head, title,
+body, header, comment, etc. Also using HTML Formatting elements, such as abbr, address,
+etc
+4. Design and develop web pages that embed images and client-side maps, audio and video
+and links, lists and tables, embed YouTube videos, graphics using canvas and SVG.
+5. Design and develop web pages with styles, semantics and layouts, such as header, footer,
+section, data, div, etc. also using HTML APIs, web components.
+6. Design and develop web pages by applying CSS text formatting properties, such as Text
+Alignment, Text Decoration, Text Transformation, Text Spacing, Text Shadow, Font
+Family, Font Style, Font Size, etc. Also apply CSS colors and backgrounds properties, such
+as colour, RGB, HEX, HSL values, background image, background color, etc.
+7. Design and develop web pages by applying CSS borders and margin properties, such as
+Border Width, Border Color, Margins, etc. Also apply CSS floating, overflow and
+positioning properties, such as float, overflow, position, etc.
+8. Design and develop web pages by applying CSS page layout properties, such as display,
+padding, height, width, max-width, align, etc.
+9. Design and develop web pages by applying CSS properties to links, lists and tables.
+10. Design and develop web pages by using CSS navigation bars and dropdowns.
+11. Design and develop web pages by using CSS Selectors.
+12. Design and develop web pages by using inline CSS, internal CSS and external CSS.
+
+Module 2: Client-side Programming and Server-side Programming
+JavaScript: Introduction to JavaScript, Basic Syntax, Variables, Data Types, Statements,
+Operators, Conditions, Loops, Functions, Arrays, Objects, Form Validation, DOM, JavaScript
+Objects, JavaScript Functions, Asynchronous JavaScript and any one of the state-of-the-art
+JavaScript libraries. Introduction to Server-side Programming, Installation of Web and database
+Server, Process user input, Efficient storage and delivery of information to and from databases,
+File handling and controlled access to the content, store session/state information, cookies,
+notifications and communication.
+Note:
+1. One of the following server-side scripting languages can be used for the implementation:
+PHP, Node.js, or other state-of-art scripting languages.
+2. One of the following databases can be used for data storage and retrieval: MySQL,
+MongoDB, Firebase or other state-of-art databases.
+Experiments:
+1. Implement a script using JavaScript that changes HTML content, HTML attributes hides
+and show HTML elements, HTML output and window alert box for web pages.
+2. Implement a script using JavaScript that shows use of JavaScript variables, data types and
+statements for web pages.
+3. Implement a script using JavaScript that shows use of JavaScript Arithmetic, Assignment
+and String Concatenation operations for web pages.
+4. Implement a script using JavaScript that shows use of JavaScript conditionals and loops for
+web pages.
+5. Implement a script using JavaScript that shows use of JavaScript Functions, Arrays, and
+Objects for web pages.
+6. Implement a script using JavaScript that shows use of Asynchronous JavaScript.
+7. Design and develop web pages and insert JavaScript in head tag, body tag, external file,
+external URL and external folder.
+8. Implement a script using JavaScript library.
+9. Implement basic functionalities of server-side scripting language, such as data types,
+operators, conditionals, and loops.
+10. Implement basic functionalities of server-side scripting language, such as objects, arrays,
+and functions.
+11. Implement web page form validations using server-side scripting language.
+12. Implement file handling using server-side scripting language.
+13. Implement cookies using server-side scripting language.
+14. Implement sessions using server-side scripting language.
+15. Implement CRUD operations on database using server-side scripting language. 
+
+Module 3: Web Application Framework/Library
+State-of-the-art Front-End Framework library: One of the following technologies will be
+considered: Angular, React.js or other state-of-the-art front-end development
+framework/library.
+Experiments:
+1. Installing framework and configuring Integrated Development Environment (IDE), and its
+dependencies.
+2. Creating workspace, project and setting up the necessary environment.
+3. Implementing the fundamental syntaxes and components of the framework.
+4. Building and testing the application.
+5. Deploying the application.
+6. Implementing the fundamental syntaxes and components of the framework. 
+
+Module 4: Server-side Development Framework/Library Part I
+State-of-the-art server-side Technology: Ruby on Rails, Flask or other state-of-the-art back-end
+development framework/library.
+Experiments:
+1. Installing framework and configuring Integrated Development Environment (IDE), and its
+dependencies.
+2. Creating workspace, project and setting up the necessary environment.
+3. Implementing the fundamental syntaxes and components of the framework.
+4. Implementing server-side validations and authentication for web application.
+5. Implementing CRUD operations for web application.
+6. Building and testing the application.
+7. Deploying the application.
+
+Module 5: Server-side Development Framework/Library Part II
+Django or another state-of-the-art framework/library.
+Experiments:
+1. Installing framework and configuring Integrated Development Environment (IDE), and its
+dependencies.
+2. Creating workspace, project and setting up the necessary environment.
+3. Implementing the fundamental syntaxes and components of the framework.
+4. Implementing server-side validations and authentication for web application.
+5. Implementing CRUD operations for web application.
+6. Building and testing the application.
+7. Deploying the application
+
+Module 6: Hosting Web Applications, Web Security
+Building web application and Hosting web application.
+Web Security: Introduction, types of web threats, and prevention measures.
+Experiments:
+1. Choosing a hosting server and selecting a plan for web hosting.
+2. Choosing and configuring DNS address.
+3. Uploading, configuring and running the website over the internet. 

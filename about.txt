@@ -1,0 +1,8 @@
+1 To inculcate understanding of World Wide Web, Internet, the concepts of web applications
+development and web programming languages as well to inculcate understanding of state-ofthe-art front-end and back-end development frameworks of web programming
+2 To introduce selection of appropriate concepts of internet and web programming such as
+HTML, CSS, JavaScript, and other server-side scripting languages.
+3 To introduce selection of appropriate concepts from different state-of-the-art
+frameworks/libraries and tools for developing a web application.
+4 To infuse skills of combining different components from state-of-the-art technologies to design
+a web and mobile app to solve real world problems. 
